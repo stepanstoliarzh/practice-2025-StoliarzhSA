@@ -1,27 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>GoSpot — Платформа для водного спорта</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on GoSpot — Платформа для водного спорта</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>О проекте</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>Название проекта #Водный спорт (I курс)
-Цель проекта #Создание веб-сайта для поиска и фильтрации водных спотов по категориям (плавание, весло, парус, мотор), а также публикации новостей и полезной информации.
-Описание #Проект реализуется в рамках дисциплины «Проектная деятельность». В нем участвуют студенты направления 10.03.01 «Информационная безопасность».
-Сайт позволяет:
-находить водные активности по категориям; просматривать описание спотов и участников; публиковать новости и ресурсы. Проект командный. Участники: Панин Данила Олегович, Бойков Тимофей Анатольевич, Столярж Степан Алексеевич.</description>
-      
-    </item>
-    
-  </channel>
-</rss>
